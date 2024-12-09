@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Srisakdi:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&family=Srisakdi:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&family=Sriracha&family=Srisakdi:wght@400;700&display=swap');
+
+body {
+    color: rgb(26, 4, 137);
+    font-family: "Srisakdi", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    place-items: center;
+}
+
+h1 {
+    font-family: "Pattaya", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Sriracha", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.921);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
